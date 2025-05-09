@@ -1,4 +1,4 @@
-IBM Generative AI for Cybersecurity Professionals Specialization (Coursera)
+### IBM Generative AI for Cybersecurity Professionals Specialization (Coursera)
 
 ## Overview
 
